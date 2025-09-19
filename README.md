@@ -31,9 +31,13 @@ The main goal of this assignment is to conduct a thorough exploratory analysis o
 
 
 ### Tools and Libraries:
+
 ●	Python or R programming language
+
 ●	Data manipulation libraries 
+
 ●	Data visualization libraries (Matplotlib and Seaborn in Python)
+
 ●	Jupyter Notebook for documenting your analysis
 
 
@@ -75,6 +79,7 @@ The main goal of this assignment is to conduct a thorough exploratory analysis o
 ●	Summarize the key insights and patterns discovered through your exploratory analysis.
 
 ●	Discuss how these findings could impact decision-making or further analyses.
+
 Deliverables:
 
 ●	A detailed Jupyter Notebook file containing the code, visualizations, and explanations for each step of your analysis.
